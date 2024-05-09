@@ -1,2 +1,2 @@
-# human-burn-classification
-#### hi i'm tanya
+# skin-burn-classification
+
